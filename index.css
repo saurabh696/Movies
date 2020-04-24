@@ -1,0 +1,23 @@
+﻿body{
+	background:black;
+}
+
+.first-btn{
+	background: lightgrey;
+    color: black;
+}
+
+.info{
+	color:white;
+}
+
+
+.info2{
+	
+	font-size: 19px !important;
+}
+
+.plot1{
+    font-size: 15px;
+}
+
